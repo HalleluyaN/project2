@@ -1,0 +1,31 @@
+Automation project
+
+https://jsoup.org/cookbook/extracting-data/example-list-links
+
+
+web crawler for marketing company
+html translator
+
+parser
+
+
+
+weburl.txt
+
+url file--use jsoup/psoup---document---extract http for entire website
+
+(href)
+
+try catch handling
+
+
+
+read url from the file
+
+
+reading text file in java/python
+jsoup code
+
+
+install pip command
+
